@@ -8,6 +8,8 @@ def isGreater(a,b):
     else:
        print("second number is greater or equal")
 
+def isLeasser(a,b):
+   pass
 
 a = 9 
 b = 8
